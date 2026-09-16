@@ -36,5 +36,38 @@
 
 // let stringNumber = String(someNumber)
 // console.log(stringNumber);
-// console.log(typeof stringNumber)
+// console.log(typeof stringNumber) 33
+// string
 
+/////*****Operations*****/////
+
+// let value =3
+// let negValue =-value
+// // console.log(negValue);
+
+// let str1 = "hello"
+// let str2 = " yutika"   
+//yutika chya aadhi space sodlyavar output madhye space yete
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1+2+"2")
+// 12
+// 12
+// 122
+// 32 string last la ahe mhnun adhi zala conversationj
+//  type conversion -to primitive mdhye ecma
+
+// console.log(+true); true+ not allowed
+// console.log(+"")
+// 1
+// 0
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
+// output is 101
+//ptrefix and postfix js n mdn padhna hai
