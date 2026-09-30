@@ -34,6 +34,6 @@
 // where there is a rule.
 // non primitive ka eritten type object hi ata hai
 // stack (primitive) , Heap (Non-Primitive)
-jab stack main value rakhte hai toh copy milta hai
- and heap mainrakhte hain tab reference milta hai
+// jab stack main value rakhte hai toh copy milta hai
+//  and heap mainrakhte hain tab reference milta hai
  
